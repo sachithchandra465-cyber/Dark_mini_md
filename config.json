@@ -1,0 +1,20 @@
+{
+  "users": {
+    "50941131299": {
+      "sudoList": [
+        "50941131299@s.whatsapp.net",
+        "50935622916@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/HubP.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
